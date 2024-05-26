@@ -1,0 +1,50 @@
+.ashContainer {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+}
+
+.ashText {
+    padding: 10px;
+    border: 2px solid rgb(53, 50, 50);
+    border-radius: 5px;
+    width: 50%;
+    font-size: 1rem;
+    height: 2rem;
+}
+
+.ashText:hover {
+    border: 2px solid blue;
+}
+
+.ashDate {
+    padding: 10px;
+    border: 2px solid rgb(53, 50, 50);
+    border-radius: 5px;
+    width: 30%;
+    font-size: 1rem;
+    height: 2rem;
+}
+
+.ashDate:hover {
+    border: 2px solid blue;
+}
+
+.ashButton {
+    margin-right: 15px;
+    width: 10%;
+    font-size: 1rem;
+    border-radius: 5px;
+    background-color: rgb(17, 214, 17);
+    border: 1px solid gray;
+    box-shadow: 2px 2px;
+}
+
+.ashButton:hover {
+    background-color: rgb(60, 252, 60);
+}
+
+
+

@@ -1,0 +1,56 @@
+.ashContainer {
+    width: 100%;
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3.8rem;
+}
+
+.ashText {
+    padding: 15px  10px;
+    border: 2px solid rgb(121, 121, 121);
+    border-radius: 5px;
+    min-width: 50%;
+    font-size: rem;
+    height: 1rem;
+    display: flex;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.ashDate {
+    padding: 10px;
+    border: 2px solid rgb(121, 121, 121);
+    border-radius: 5px;
+    min-width: 30%;
+    font-size: 1rem;
+    height: 1.6rem;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.ashButton {
+    margin-right: 15px;
+    width: 10%;
+    font-size: 1rem;
+    border-radius: 5px;
+    background-color: rgb(209, 8, 8);
+    border: 1px solid gray;
+    box-shadow: 2px 2px;
+    height: 3rem;
+}
+
+.ashButton:hover {
+    background-color: rgb(255, 5, 5);
+}
+
+
+
